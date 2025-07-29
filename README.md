@@ -1,7 +1,7 @@
 # CARR-Whitepaper
 A Crypto Asset Risk Classification Methodology: CARR (Crypto Asset Risk Rating)
 **By Denise Mejia, CRISC**  
-📄 [Download the White Paper (PDF)](Whitepaper_Crypto Asset Risk Classification Methodology_CARR.pdf
+📄 [Download the White Paper (PDF)] CARR_Whitepaper.pdf
 
 ---
 
