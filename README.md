@@ -20,5 +20,6 @@ Topics include:
 
 **Denise Mejia, CRISC**  
 Technologist, Crypto Risk Educator, Author  
-[LinkedIn] www.linkedin.com/in/denise-mejia-crisc-crypto-risk-educator-author-2904391 
+[LinkedIn] www.linkedin.com/in/denise-mejia-crisc-crypto-risk-educator-author-2904391
+
 📧 dmejia@potestassolutions.com
