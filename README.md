@@ -5,7 +5,7 @@ A Crypto Asset Risk Classification Methodology: CARR (Crypto Asset Risk Rating)
 
 ---
 
-## 🔍 Overview
+## Overview
 
 This white paper introduces the **CARR Framework**—a scoring model for evaluating crypto asset risk.  
 Topics include:
@@ -16,7 +16,7 @@ Topics include:
 
 ---
 
-## 👩‍💼 About the Author
+## About the Author
 
 **Denise Mejia, CRISC**  
 Technologist, Crypto Risk Educator, Author  
